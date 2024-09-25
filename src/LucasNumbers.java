@@ -9,7 +9,6 @@ import java.util.Scanner;
 class LucasNumber{
     private int index;
     private long value;
-
     /**
      *  Конструктор класу
      * @param index номер числа Люка
